@@ -21,3 +21,6 @@ The objective of this project was to analyze customer service data from a call c
 4. Provided recommendations to enhance overall service quality
 ## Outcome
 This project demonstrates my ability to transform raw data into meaningful insights and build dashboards that support business decisions in a real-world scenario.
+## Dashboards Overview:
+<img width="886" height="500" alt="Call Centre Trends Dashboard" src="https://github.com/user-attachments/assets/4b9cbc3c-f178-4e96-b7a9-a7ff01ac2cfd" />
+
