@@ -3,9 +3,9 @@ The objective of this project was to analyze customer service data from a call c
 ## Key Features
 1. Built dynamic and interactive Power BI dashboards
 2. Analyzed key performance indicators (KPIs) such as:
-   Call resolution rates
-   Average handling time
-   Customer satisfaction scores
+   Call resolution rates,
+   Average handling time,
+   Customer satisfaction scores,
    Agent performance metrics
 3. Identified trends and patterns to support data-driven decision-making
 4. Used data visualization techniques to present insights clearly and effectively
